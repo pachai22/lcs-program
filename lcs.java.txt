@@ -1,4 +1,4 @@
-public class LongestCommonSubsequence 
+public class Longestcomseq
 { 
   
   
@@ -39,7 +39,7 @@ public class LongestCommonSubsequence
     int n = Y.length; 
   
     System.out.println("Length of LCS is" + " " + 
-                                  lcs.lcs( X, Y, m, n ) ); 
+                                  lcs.lcs( X, Y, m, n ) ); ;
   } 
   
 } 
